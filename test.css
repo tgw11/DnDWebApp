@@ -1,0 +1,336 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0
+}
+
+#kmh * {
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-weight: normal;
+    font-family: Arial, Helvetica, Verdana, sans-serif !important
+}
+
+@media print {
+    #kmh {
+        display: none
+    }
+}
+
+#kmh {
+    position: fixed;
+    top: -1000em;
+    left: 0;
+    font-size: 10px !important;
+    z-index: 2147483647
+}
+
+#kmh #flyout {
+    position: fixed;
+    z-index: 2147483647;
+    height: 30px;
+    width: 85px;
+    background: #FFF;
+    -webkit-box-shadow: 1px 3px 3px 0 #ccc;
+    -moz-box-shadow: 1px 3px 3px 0 #ccc;
+    box-shadow: 1px 3px 3px 0 #ccc;
+    top: 0
+}
+
+#kmh #view {
+    position: relative;
+    left: 0;
+    width: 30px;
+    height: 100%;
+    cursor: pointer;
+    z-index: 2147483647
+}
+
+#kmh #logo {
+    position: relative;
+    top: 0;
+    width: 85px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-image: url("./logo_h.svg");
+    background-position: 0 0;
+    background-size: inherit;
+    z-index: 2147483647
+}
+
+#kmh #kachelcontent {
+    position: relative;
+    top: 30px;
+    left: 0;
+    width: 400px;
+    -moz-border-radius: 0 0 20px 20px;
+    -webkit-border-radius: 0 0 20px 20px;
+    border-radius: 0 0 20px 20px;
+    background: rgba(255, 255, 255, 0.90);
+    box-shadow: 0 3px 3px #ccc;
+    -moz-box-shadow: 0 3px 3px #ccc;
+    -o-box-shadow: 0 3px 3px #ccc;
+    -webkit-box-shadow: 0 3px 3px #ccc;
+    visibility: hidden;
+    min-height: 220px;
+    padding-left: 25px;
+    padding-right: 35px;
+    font-size: 10px;
+    max-height: 440px;
+    overflow: auto;
+    z-index: 2147483646;
+    box-sizing: content-box
+}
+
+#kmh #close {
+    background-color: #ddd;
+    border-radius: 4px;
+    color: #999;
+    height: 15px;
+    line-height: 15px;
+    position: absolute;
+    right: 15px;
+    text-align: center;
+    top: 15px;
+    width: 15px;
+    cursor: pointer;
+    z-index: 2147483646
+}
+
+#kmh a.link {
+    display: block;
+    width: 50px;
+    height: 50px;
+    cursor: pointer
+}
+
+#kmh .block {
+    background: transparent !important;
+    box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    -o-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    padding: .25em .5em !important;
+    border: 0 !important;
+    margin: 0 !important;
+    border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    -webkit-border-radius: 0 !important
+}
+
+#kmh .block>h2 {
+    font-size: 1.3em !important;
+    color: #63666a;
+    margin-bottom: .5em !important;
+    border-bottom: 1px solid #000 !important;
+    line-height: normal !important;
+    height: 1.6em !important
+}
+
+#kmh .block>h2>a {
+    font-size: 1em !important;
+    line-height: normal !important
+}
+
+#kmh .block .kachel {
+    margin-bottom: 1em !important;
+    margin-right: 15px !important;
+    float: left
+}
+
+#kmh .kachel p {
+    text-align: center;
+    color: #63666a;
+    line-height: 1.7em
+}
+
+#kmh .icon {
+    width: 100%;
+    background-image: url(./km_h.svg);
+    background-repeat: no-repeat;
+    background-size: 10em;
+    height: 0;
+    padding: 0;
+    padding-bottom: 5em;
+    text-align: center;
+    cursor: pointer
+}
+
+#kmh .icon.home {
+    background-position: 0 -25em
+}
+
+#kmh .icon.home:hover, #kmh .icon.home.current {
+    background-position: -5em -25em
+}
+
+#kmh .icon.public-news {
+    background-position: 0 0
+}
+
+#kmh .icon.public-news:hover, #kmh .icon.public-news.current {
+    background-position: -5em 0
+}
+
+#kmh .icon.news {
+    background-position: 0 -30em
+}
+
+#kmh .icon.news:hover, #kmh .icon.news.current {
+    background-position: -5em -30em
+}
+
+#kmh .icon.sogo {
+    background-position: 0 -35em
+}
+
+#kmh .icon.sogo:hover, #kmh .icon.sogo.current {
+    background-position: -5em -35em
+}
+
+#kmh .icon.edusharing {
+    background-position: 0 -40em
+}
+
+#kmh .icon.edusharing:hover, #kmh .icon.edusharing.current {
+    background-position: -5em -40em
+}
+
+#kmh .icon.mein-konto {
+    background-position: 0 -50em
+}
+
+#kmh .icon.mein-konto:hover, #kmh .icon.mein-konto.current {
+    background-position: -5em -50em
+}
+
+#kmh .icon.logout, #kmv .icon.logout {
+    background-position: 0 -60em
+}
+
+#kmh .icon.logout:hover, #kmh .icon.logout.current {
+    background-position: -5em -60em
+}
+
+#kmh .icon.idm-frontend, #kmh .icon.idm-frontend {
+    background-position: 0 -5em
+}
+
+#kmh .icon.idm-frontend:hover, #kmh .icon.idm-frontend.current {
+    background-position: -5em -5em
+}
+
+#kmh .icon.divis, #kmv .icon.divis {
+    background-position: 0 -20em
+}
+
+#kmh .icon.divis:hover, #kmh .icon.divis.current {
+    background-position: -5em -20em
+}
+
+#kmh .icon.fhh, #kmv .icon.fhh {
+    background-position: 0 -15em
+}
+
+#kmh .icon.fhh:hover, #kmh .icon.fhh.current {
+    background-position: -5em -15em
+}
+
+#kmh .icon.dll, #kmv .icon.dll {
+    background-position: 0 -10em
+}
+
+#kmh .icon.dll:hover, #kmh .icon.dll.current {
+    background-position: -5em -10em
+}
+
+#kmh .icon.history-book, #kmv .icon.history-book {
+    background-position: 0 -65em
+}
+
+#kmh .icon.history-book:hover, #kmh .icon.history-book.current {
+    background-position: -5em -65em
+}
+
+#kmh .icon.mediathek, #kmv .icon.mediathek {
+    background-position: 0 -75em
+}
+
+#kmh .icon.mediathek:hover, #kmh .icon.mediathek.current {
+    background-position: -5em -75em
+}
+
+#kmh .icon.help, #kmv .icon.help {
+    background-position: 0 -55em
+}
+
+#kmh .icon.help:hover, #kmh .icon.help.current {
+    background-position: -5em -55em
+}
+
+#kmh .icon.support, #kmv .icon.support {
+    background-position: 0 -80em
+}
+
+#kmh .icon.support:hover, #kmh .icon.support.current {
+    background-position: -5em -80em
+}
+
+#kmh .icon.hbs, #kmv .icon.hbs {
+    background-position: 0 -85em
+}
+
+#kmh .icon.hbs:hover, #kmh .icon.hbs.current {
+    background-position: -5em -85em
+}
+
+#kmh .icon.sep, #kmv .icon.sep {
+    background-position: 0 -90em
+}
+
+#kmh .icon.sep:hover, #kmh .icon.sep.current {
+    background-position: -5em -90em
+}
+
+@media only screen and (min-width:320px) and (max-width:480px) and (min-height:480px) and (max-height:640px) {
+    #kmh #kachelcontent {
+        width: fit-content;
+        top: 0;
+        min-height: 250px;
+        max-height: 380px;
+        overflow: auto
+    }
+}
+
+@media only screen and (min-width:480px) and (max-width:640px) and (min-height:320px) and (max-height:480px) {
+    #kmh #kachelcontent {
+        padding-left: 40px;
+        padding-right: 40px;
+        top: 30px;
+        min-height: 250px;
+        max-height: 250px;
+        overflow: auto
+    }
+}
+
+@media only screen and (min-width:360px) and (max-width:640px) and (min-height:640px) and (max-height:768px) {
+    #kmh #kachelcontent {
+        width: fit-content;
+        top: 30px;
+        min-height: 320px;
+        max-height: 420px;
+        overflow: auto
+    }
+}
+
+@media only screen and (min-width:640px) and (max-width:768px) and (min-height:360px) and (max-height:640px) {
+    #kmh #kachelcontent {
+        padding-left: 40px;
+        padding-right: 40px;
+        top: 30px;
+        min-height: 250px;
+        max-height: 320px;
+        overflow: auto
+    }
+}

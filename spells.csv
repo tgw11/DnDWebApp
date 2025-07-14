@@ -1,0 +1,320 @@
+,index,name,range,material,ritual,duration,concentration,casting_time,level,attack_type,url,updated_at
+0,acid-arrow,Acid Arrow,90 feet,Powdered rhubarb leaf and an adder's stomach.,False,Instantaneous,False,1 action,2,ranged,/api/2014/spells/acid-arrow,2025-04-08T21:14:16.147Z
+1,acid-splash,Acid Splash,60 feet,,False,Instantaneous,False,1 action,0,,/api/2014/spells/acid-splash,2025-04-08T21:14:16.147Z
+2,aid,Aid,30 feet,A tiny strip of white cloth.,False,8 hours,False,1 action,2,,/api/2014/spells/aid,2025-04-08T21:14:16.147Z
+3,alarm,Alarm,30 feet,A tiny bell and a piece of fine silver wire.,True,8 hours,False,1 minute,1,,/api/2014/spells/alarm,2025-04-08T21:14:16.147Z
+4,alter-self,Alter Self,Self,,False,Up to 1 hour,True,1 action,2,,/api/2014/spells/alter-self,2025-04-08T21:14:16.147Z
+5,animal-friendship,Animal Friendship,30 feet,A morsel of food.,False,24 hours,False,1 action,1,,/api/2014/spells/animal-friendship,2025-04-08T21:14:16.147Z
+6,animal-messenger,Animal Messenger,30 feet,A morsel of food.,True,24 hours,False,1 action,2,,/api/2014/spells/animal-messenger,2025-04-08T21:14:16.147Z
+7,animal-shapes,Animal Shapes,30 feet,,False,Up to 24 hours,True,1 action,8,,/api/2014/spells/animal-shapes,2025-04-08T21:14:16.147Z
+8,animate-dead,Animate Dead,10 feet,"A drop of blood, a piece of flesh, and a pinch of bone dust.",False,Instantaneous,False,1 minute,3,,/api/2014/spells/animate-dead,2025-04-08T21:14:16.147Z
+9,animate-objects,Animate Objects,120 feet,,False,Up to 1 minute,True,1 action,5,,/api/2014/spells/animate-objects,2025-04-08T21:14:16.147Z
+10,antilife-shell,Antilife Shell,Self,,False,Up to 1 hour,True,1 action,5,,/api/2014/spells/antilife-shell,2025-04-08T21:14:16.147Z
+11,antimagic-field,Antimagic Field,Self,A pinch of powdered iron or iron filings.,False,Up to 1 hour,True,1 action,8,,/api/2014/spells/antimagic-field,2025-04-08T21:14:16.147Z
+12,antipathy-sympathy,Antipathy/Sympathy,60 feet,Either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect.,False,10 days,False,1 hour,8,,/api/2014/spells/antipathy-sympathy,2025-04-08T21:14:16.147Z
+13,arcane-eye,Arcane Eye,30 feet,A bit of bat fur.,False,Up to 1 hour,True,1 action,4,,/api/2014/spells/arcane-eye,2025-04-08T21:14:16.147Z
+14,arcane-hand,Arcane Hand,120 feet,An eggshell and a snakeskin glove.,False,Up to 1 minute,True,1 action,5,,/api/2014/spells/arcane-hand,2025-04-08T21:14:16.147Z
+15,arcane-lock,Arcane Lock,Touch,"Gold dust worth at least 25gp, which the spell consumes.",False,Until dispelled,False,1 action,2,,/api/2014/spells/arcane-lock,2025-04-08T21:14:16.147Z
+16,arcane-sword,Arcane Sword,60 feet,"A miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp.",False,Up to 1 minute,True,1 action,7,melee,/api/2014/spells/arcane-sword,2025-04-08T21:14:16.147Z
+17,arcanists-magic-aura,Arcanist's Magic Aura,Touch,A small square of silk.,False,24 hours,False,1 action,2,,/api/2014/spells/arcanists-magic-aura,2025-04-08T21:14:16.147Z
+18,astral-projection,Astral Projection,10 feet,"For each creature you affect with this spell, you must provide one jacinth worth at least 1,000gp and one ornately carved bar of silver worth at least 100gp, all of which the spell consumes.",False,Special,False,1 hour,9,,/api/2014/spells/astral-projection,2025-04-08T21:14:16.147Z
+19,augury,Augury,Self,"Specially marked sticks, bones, or similar tokens worth at least 25gp.",True,Instantaneous,False,1 minute,2,,/api/2014/spells/augury,2025-04-08T21:14:16.147Z
+20,awaken,Awaken,Touch,"An agate worth at least 1,000 gp, which the spell consumes.",False,Instantaneous,False,8 hours,5,,/api/2014/spells/awaken,2025-04-08T21:14:16.147Z
+21,bane,Bane,30 feet,A drop of blood.,False,Up to 1 minute,True,1 action,1,,/api/2014/spells/bane,2025-04-08T21:14:16.147Z
+22,banishment,Banishment,60 feet,An item distasteful to the target.,False,Up to 1 minute,True,1 action,4,,/api/2014/spells/banishment,2025-04-08T21:14:16.147Z
+23,barkskin,Barkskin,Touch,A handful of oak bark.,False,Up to 1 hour,True,1 action,2,,/api/2014/spells/barkskin,2025-04-08T21:14:16.147Z
+24,beacon-of-hope,Beacon of Hope,30 feet,,False,Up to 1 minute,True,1 action,3,,/api/2014/spells/beacon-of-hope,2025-04-08T21:14:16.147Z
+25,bestow-curse,Bestow Curse,Touch,,False,Up to 1 minute,True,1 action,3,,/api/2014/spells/bestow-curse,2025-04-08T21:14:16.147Z
+26,black-tentacles,Black Tentacles,90 feet,A piece of tentacle from a giant octopus or a giant squid,False,Up to 1 minute,True,1 action,4,,/api/2014/spells/black-tentacles,2025-04-08T21:14:16.147Z
+27,blade-barrier,Blade Barrier,90 feet,,False,Up to 10 minutes,True,1 action,6,,/api/2014/spells/blade-barrier,2025-04-08T21:14:16.147Z
+28,bless,Bless,30 feet,A sprinkling of holy water.,False,Up to 1 minute,True,1 action,1,,/api/2014/spells/bless,2025-04-08T21:14:16.147Z
+29,blight,Blight,30 feet,,False,Instantaneous,False,1 action,4,,/api/2014/spells/blight,2025-04-08T21:14:16.147Z
+30,blindness-deafness,Blindness/Deafness,30 feet,,False,1 minute,False,1 action,2,,/api/2014/spells/blindness-deafness,2025-04-08T21:14:16.147Z
+31,blink,Blink,Self,,False,1 minute,False,1 action,3,,/api/2014/spells/blink,2025-04-08T21:14:16.147Z
+32,blur,Blur,Self,,False,Up to 1 minute,True,1 action,2,,/api/2014/spells/blur,2025-04-08T21:14:16.147Z
+33,branding-smite,Branding Smite,Self,,False,Up to 1 minute,True,1 bonus action,2,,/api/2014/spells/branding-smite,2025-04-08T21:14:16.147Z
+34,burning-hands,Burning Hands,Self,,False,Instantaneous,False,1 action,1,,/api/2014/spells/burning-hands,2025-04-08T21:14:16.147Z
+35,call-lightning,Call Lightning,120 feet,,False,Up to 10 minutes,True,1 action,3,,/api/2014/spells/call-lightning,2025-04-08T21:14:16.147Z
+36,calm-emotions,Calm Emotions,60 feet,,False,Up to 1 minute,True,1 action,2,,/api/2014/spells/calm-emotions,2025-04-08T21:14:16.147Z
+37,chain-lightning,Chain Lightning,150 feet,"A bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins.",False,Instantaneous,False,1 action,6,,/api/2014/spells/chain-lightning,2025-04-08T21:14:16.147Z
+38,charm-person,Charm Person,30 feet,,False,1 hour,False,1 action,1,,/api/2014/spells/charm-person,2025-04-08T21:14:16.147Z
+39,chill-touch,Chill Touch,120 feet,,False,1 round,False,1 action,0,ranged,/api/2014/spells/chill-touch,2025-04-08T21:14:16.147Z
+40,circle-of-death,Circle of Death,150 feet,The powder of a crushed black pearl worth at least 500 gp.,False,Instantaneous,False,1 action,6,,/api/2014/spells/circle-of-death,2025-04-08T21:14:16.147Z
+41,clairvoyance,Clairvoyance,1 mile,"A focus worth at least 100gp, either a jeweled horn for hearing or a glass eye for seeing.",False,Up to 10 minutes,True,10 minutes,3,,/api/2014/spells/clairvoyance,2025-04-08T21:14:16.147Z
+42,clone,Clone,Touch,"A diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water.",False,Instantaneous,False,1 hour,8,,/api/2014/spells/clone,2025-04-08T21:14:16.147Z
+43,cloudkill,Cloudkill,120 feet,,False,Up to 10 minutes,True,1 action,5,,/api/2014/spells/cloudkill,2025-04-08T21:14:16.147Z
+44,color-spray,Color Spray,Self,"A pinch of powder or sand that is colored red, yellow, and blue.",False,1 round,False,1 action,1,,/api/2014/spells/color-spray,2025-04-08T21:14:16.147Z
+45,command,Command,60 feet,,False,1 round,False,1 action,1,,/api/2014/spells/command,2025-04-08T21:14:16.147Z
+46,commune,Commune,Self,Incense and a vial of holy or unholy water.,True,1 minute,False,1 minute,5,,/api/2014/spells/commune,2025-04-08T21:14:16.147Z
+47,commune-with-nature,Commune With Nature,Self,,True,Instantaneous,False,1 minute,5,,/api/2014/spells/commune-with-nature,2025-04-08T21:14:16.147Z
+48,comprehend-languages,Comprehend Languages,Self,A pinch of soot and salt.,True,1 hour,False,1 action,1,,/api/2014/spells/comprehend-languages,2025-04-08T21:14:16.147Z
+49,compulsion,Compulsion,30 feet,,False,Up to 1 minute,True,1 action,4,,/api/2014/spells/compulsion,2025-04-08T21:14:16.147Z
+50,cone-of-cold,Cone of Cold,Self,A small crystal or glass cone.,False,Instantaneous,False,1 action,5,,/api/2014/spells/cone-of-cold,2025-04-08T21:14:16.147Z
+51,confusion,Confusion,90 feet,Three walnut shells.,False,Up to 1 minute,True,1 action,4,,/api/2014/spells/confusion,2025-04-08T21:14:16.147Z
+52,conjure-animals,Conjure Animals,60 feet,,False,Up to 1 hour,True,1 action,3,,/api/2014/spells/conjure-animals,2025-04-08T21:14:16.147Z
+53,conjure-celestial,Conjure Celestial,90 feet,,False,Up to 1 hour,True,1 minute,7,,/api/2014/spells/conjure-celestial,2025-04-08T21:14:16.147Z
+54,conjure-elemental,Conjure Elemental,90 feet,"Burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water.",False,Up to 1 hour,True,1 minute,5,,/api/2014/spells/conjure-elemental,2025-04-08T21:14:16.147Z
+55,conjure-fey,Conjure Fey,90 feet,,False,Up to 1 hour,True,1 minute,6,,/api/2014/spells/conjure-fey,2025-04-08T21:14:16.147Z
+56,conjure-minor-elementals,Conjure Minor Elementals,90 feet,,False,Up to 1 hour,True,1 minute,4,,/api/2014/spells/conjure-minor-elementals,2025-04-08T21:14:16.147Z
+57,conjure-woodland-beings,Conjure Woodland Beings,60 feet,One holly berry per creature summoned.,False,Up to 1 hour,True,1 action,4,,/api/2014/spells/conjure-woodland-beings,2025-04-08T21:14:16.147Z
+58,contact-other-plane,Contact Other Plane,Self,,True,1 minute,False,1 minute,5,,/api/2014/spells/contact-other-plane,2025-04-08T21:14:16.147Z
+59,contagion,Contagion,Touch,,False,7 days,False,1 action,5,melee,/api/2014/spells/contagion,2025-04-08T21:14:16.147Z
+60,contingency,Contingency,Self,"A statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp.",False,10 days,False,10 minutes,6,,/api/2014/spells/contingency,2025-04-08T21:14:16.147Z
+61,continual-flame,Continual Flame,Touch,"Ruby dust worth 50 gp, which the spell consumes.",False,Until dispelled,False,1 action,2,,/api/2014/spells/continual-flame,2025-04-08T21:14:16.147Z
+62,control-water,Control Water,300 feet,A drop of water and a pinch of dust.,False,Up to 10 minutes,True,1 action,4,,/api/2014/spells/control-water,2025-04-08T21:14:16.147Z
+63,control-weather,Control Weather,Self,Burning incense and bits of earth and wood mixed in water.,False,Up to 8 hours,True,10 minutes,8,,/api/2014/spells/control-weather,2025-04-08T21:14:16.147Z
+64,counterspell,Counterspell,60 feet,,False,Instantaneous,False,1 reaction,3,,/api/2014/spells/counterspell,2025-04-08T21:14:16.147Z
+65,create-food-and-water,Create Food and Water,30 feet,,False,Instantaneous,False,1 action,3,,/api/2014/spells/create-food-and-water,2025-04-08T21:14:16.147Z
+66,create-or-destroy-water,Create or Destroy Water,30 feet,"A drop of water if creating water, or a few grains of sand if destroying it.",False,Instantaneous,False,1 action,1,,/api/2014/spells/create-or-destroy-water,2025-04-08T21:14:16.147Z
+67,create-undead,Create Undead,10 feet,"One clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse.",False,Instantaneous,False,1 minute,6,,/api/2014/spells/create-undead,2025-04-08T21:14:16.147Z
+68,creation,Creation,30 feet,A tiny piece of matter of the same type of the item you plan to create.,False,Special,False,1 minute,5,,/api/2014/spells/creation,2025-04-08T21:14:16.147Z
+69,cure-wounds,Cure Wounds,Touch,,False,Instantaneous,False,1 action,1,,/api/2014/spells/cure-wounds,2025-04-08T21:14:16.147Z
+70,dancing-lights,Dancing Lights,120 feet,"A bit of phosphorus or wychwood, or a glowworm.",False,Up to 1 minute,True,1 action,0,,/api/2014/spells/dancing-lights,2025-04-08T21:14:16.147Z
+71,darkness,Darkness,60 feet,Bat fur and a drop of pitch or piece of coal.,False,Up to 10 minutes,True,1 action,2,,/api/2014/spells/darkness,2025-04-08T21:14:16.147Z
+72,darkvision,Darkvision,Touch,Either a pinch of dried carrot or an agate.,False,8 hours,False,1 action,2,,/api/2014/spells/darkvision,2025-04-08T21:14:16.147Z
+73,daylight,Daylight,60 feet,,False,1 hour,False,1 action,3,,/api/2014/spells/daylight,2025-04-08T21:14:16.147Z
+74,death-ward,Death Ward,Touch,,False,8 hours,False,1 action,4,,/api/2014/spells/death-ward,2025-04-08T21:14:16.147Z
+75,delayed-blast-fireball,Delayed Blast Fireball,150 feet,A tiny ball of bat guano and sulfur.,False,Up to 1 minute,True,1 action,7,,/api/2014/spells/delayed-blast-fireball,2025-04-08T21:14:16.147Z
+76,demiplane,Demiplane,60 feet,,False,1 hour,False,1 action,8,,/api/2014/spells/demiplane,2025-04-08T21:14:16.147Z
+77,detect-evil-and-good,Detect Evil and Good,Self,,False,Up to 10 minutes,True,1 action,1,,/api/2014/spells/detect-evil-and-good,2025-04-08T21:14:16.147Z
+78,detect-magic,Detect Magic,Self,,True,Up to 10 minutes,True,1 action,1,,/api/2014/spells/detect-magic,2025-04-08T21:14:16.147Z
+79,detect-poison-and-disease,Detect Poison and Disease,Self,A yew leaf.,True,Up to 10 minutes,True,1 action,1,,/api/2014/spells/detect-poison-and-disease,2025-04-08T21:14:16.147Z
+80,detect-thoughts,Detect Thoughts,Self,A copper coin.,False,Up to 1 minute,True,1 action,2,,/api/2014/spells/detect-thoughts,2025-04-08T21:14:16.147Z
+81,dimension-door,Dimension Door,500 feet,,False,Instantaneous,False,1 action,4,,/api/2014/spells/dimension-door,2025-04-08T21:14:16.147Z
+82,disguise-self,Disguise Self,Self,,False,1 hour,False,1 action,1,,/api/2014/spells/disguise-self,2025-04-08T21:14:16.147Z
+83,disintegrate,Disintegrate,60 feet,A lodestone and a pinch of dust.,False,Instantaneous,False,1 action,6,,/api/2014/spells/disintegrate,2025-04-08T21:14:16.147Z
+84,dispel-evil-and-good,Dispel Evil and Good,Self,Holy water or powdered silver and iron.,False,Up to 1 minute,True,1 action,5,,/api/2014/spells/dispel-evil-and-good,2025-04-08T21:14:16.147Z
+85,dispel-magic,Dispel Magic,120 feet,,False,Instantaneous,False,1 action,3,,/api/2014/spells/dispel-magic,2025-04-08T21:14:16.147Z
+86,divination,Divination,Self,"Incense and a sacrificial offering appropriate to your religion, together worth at least 25gp, which the spell consumes.",True,Instantaneous,False,1 action,4,,/api/2014/spells/divination,2025-04-08T21:14:16.147Z
+87,divine-favor,Divine Favor,Self,,False,Up to 1 minute,True,1 bonus action,1,,/api/2014/spells/divine-favor,2025-04-08T21:14:16.147Z
+88,divine-word,Divine Word,30 feet,,False,Instantaneous,False,1 bonus action,7,,/api/2014/spells/divine-word,2025-04-08T21:14:16.147Z
+89,dominate-beast,Dominate Beast,60 feet,,False,Up to 1 minute,True,1 action,4,,/api/2014/spells/dominate-beast,2025-04-08T21:14:16.147Z
+90,dominate-monster,Dominate Monster,60 feet,,False,Up to 1 hour,True,1 action,8,,/api/2014/spells/dominate-monster,2025-04-08T21:14:16.147Z
+91,dominate-person,Dominate Person,60 feet,,False,Up to 1 minute,True,1 action,5,,/api/2014/spells/dominate-person,2025-04-08T21:14:16.147Z
+92,dream,Dream,Special,"A handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird.",False,8 hours,False,1 minute,5,,/api/2014/spells/dream,2025-04-08T21:14:16.147Z
+93,druidcraft,Druidcraft,30 feet,,False,Instantaneous,False,1 action,0,,/api/2014/spells/druidcraft,2025-04-08T21:14:16.147Z
+94,earthquake,Earthquake,500 feet,"A pinch of dirt, a piece of rock, and a lump of clay.",False,Up to 1 minute,True,1 action,8,,/api/2014/spells/earthquake,2025-04-08T21:14:16.147Z
+95,eldritch-blast,Eldritch Blast,120 feet,,False,Instantaneous,False,1 action,0,ranged,/api/2014/spells/eldritch-blast,2025-04-08T21:14:16.147Z
+96,enhance-ability,Enhance Ability,Touch,Fur or a feather from a beast.,False,Up to 1 hour,True,1 action,2,,/api/2014/spells/enhance-ability,2025-04-08T21:14:16.147Z
+97,enlarge-reduce,Enlarge/Reduce,30 feet,A pinch iron powder.,False,Up to 1 minute,True,1 action,2,,/api/2014/spells/enlarge-reduce,2025-04-08T21:14:16.147Z
+98,entangle,Entangle,90 feet,,False,Up to 1 minute,True,1 action,1,,/api/2014/spells/entangle,2025-04-08T21:14:16.147Z
+99,enthrall,Enthrall,60 feet,,False,1 minute,False,1 action,2,,/api/2014/spells/enthrall,2025-04-08T21:14:16.147Z
+100,etherealness,Etherealness,Self,,False,8 hours,False,1 action,7,,/api/2014/spells/etherealness,2025-04-08T21:14:16.147Z
+101,expeditious-retreat,Expeditious Retreat,Self,,False,Up to 10 minutes,True,1 bonus action,1,,/api/2014/spells/expeditious-retreat,2025-04-08T21:14:16.147Z
+102,eyebite,Eyebite,Self,,False,Up to 1 minute,True,1 action,6,,/api/2014/spells/eyebite,2025-04-08T21:14:16.147Z
+103,fabricate,Fabricate,120 feet,,False,Instantaneous,False,10 minutes,4,,/api/2014/spells/fabricate,2025-04-08T21:14:16.147Z
+104,faerie-fire,Faerie Fire,60 feet,,False,Up to 1 minute,True,1 action,1,,/api/2014/spells/faerie-fire,2025-04-08T21:14:16.147Z
+105,faithful-hound,Faithful Hound,30 feet,"A tiny silver whistle, a piece of bone, and a thread",False,8 hours,False,1 action,4,melee,/api/2014/spells/faithful-hound,2025-04-08T21:14:16.147Z
+106,false-life,False Life,Self,A small amount of alcohol or distilled spirits.,False,1 hour,False,1 action,1,,/api/2014/spells/false-life,2025-04-08T21:14:16.147Z
+107,fear,Fear,Self,A white feather or the heart of a hen.,False,Up to 1 minute,True,1 action,3,,/api/2014/spells/fear,2025-04-08T21:14:16.147Z
+108,feather-fall,Feather Fall,60 feet,A small feather or a piece of down.,False,1 minute,False,1 reaction,1,,/api/2014/spells/feather-fall,2025-04-08T21:14:16.147Z
+109,feeblemind,Feeblemind,150 feet,"A handful of clay, crystal, glass, or mineral spheres.",False,Instantaneous,False,1 action,8,,/api/2014/spells/feeblemind,2025-04-08T21:14:16.147Z
+110,find-familiar,Find Familiar,10 feet,"10gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier.",True,Instantaneous,False,1 hour,1,,/api/2014/spells/find-familiar,2025-04-08T21:14:16.147Z
+111,find-steed,Find Steed,30 feet,,False,Instantaneous,False,10 minutes,2,,/api/2014/spells/find-steed,2025-04-08T21:14:16.147Z
+112,find-the-path,Find the Path,Self,"A set of divinatory tools--such as bones, ivory sticks, cards, teeth, or carved runes--worth 100gp and an object from the location you wish to find.",False,Up to 24 hours,True,1 minute,6,,/api/2014/spells/find-the-path,2025-04-08T21:14:16.147Z
+113,find-traps,Find Traps,120 feet,,False,Instantaneous,False,1 action,2,,/api/2014/spells/find-traps,2025-04-08T21:14:16.147Z
+114,finger-of-death,Finger of Death,60 feet,,False,Instantaneous,False,1 action,7,,/api/2014/spells/finger-of-death,2025-04-08T21:14:16.147Z
+115,fire-bolt,Fire Bolt,120 feet,,False,Instantaneous,False,1 action,0,ranged,/api/2014/spells/fire-bolt,2025-04-08T21:14:16.147Z
+116,fire-shield,Fire Shield,Self,A little phosphorus or a firefly.,False,10 minutes,False,1 action,4,,/api/2014/spells/fire-shield,2025-04-08T21:14:16.147Z
+117,fire-storm,Fire Storm,150 feet,,False,Instantaneous,False,1 action,7,,/api/2014/spells/fire-storm,2025-04-08T21:14:16.147Z
+118,fireball,Fireball,150 feet,A tiny ball of bat guano and sulfur.,False,Instantaneous,False,1 action,3,,/api/2014/spells/fireball,2025-04-08T21:14:16.147Z
+119,flame-blade,Flame Blade,Self,Leaf of sumac.,False,Up to 10 minutes,True,1 bonus action,2,,/api/2014/spells/flame-blade,2025-04-08T21:14:16.147Z
+120,flame-strike,Flame Strike,60 feet,Pinch of sulfur.,False,Instantaneous,False,1 action,5,,/api/2014/spells/flame-strike,2025-04-08T21:14:16.147Z
+121,flaming-sphere,Flaming Sphere,60 feet,"A bit of tallow, a pinch of brimstone, and a dusting of powdered iron.",False,Up to 1 minute,True,1 action,2,,/api/2014/spells/flaming-sphere,2025-04-08T21:14:16.147Z
+122,flesh-to-stone,Flesh to Stone,60 feet,"A pinch of lime, water, and earth.",False,Up to 1 minute,True,1 action,6,,/api/2014/spells/flesh-to-stone,2025-04-08T21:14:16.147Z
+123,floating-disk,Floating Disk,30 feet,A drop of mercury.,True,1 hour,False,1 action,1,,/api/2014/spells/floating-disk,2025-04-08T21:14:16.147Z
+124,fly,Fly,Touch,A wing feather from any bird.,False,Up to 10 minutes,True,1 action,3,,/api/2014/spells/fly,2025-04-08T21:14:16.147Z
+125,fog-cloud,Fog Cloud,120 feet,,False,Up to 1 hour,True,1 action,1,,/api/2014/spells/fog-cloud,2025-04-08T21:14:16.147Z
+126,forbiddance,Forbiddance,Touch,"A sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp.",True,24 hours,False,10 minutes,6,,/api/2014/spells/forbiddance,2025-04-08T21:14:16.147Z
+127,forcecage,Forcecage,100 feet,"Ruby dust worth 1,500 gp.",False,1 hour,False,1 action,7,,/api/2014/spells/forcecage,2025-04-08T21:14:16.147Z
+128,foresight,Foresight,Touch,A hummingbird feather.,False,8 hours,False,1 minute,9,,/api/2014/spells/foresight,2025-04-08T21:14:16.147Z
+129,freedom-of-movement,Freedom of Movement,Touch,"A leather strap, bound around the arm or a similar appendage.",False,1 hour,False,1 action,4,,/api/2014/spells/freedom-of-movement,2025-04-08T21:14:16.147Z
+130,freezing-sphere,Freezing Sphere,300 feet,A small crystal sphere.,False,Instantaneous,False,1 action,6,,/api/2014/spells/freezing-sphere,2025-04-08T21:14:16.147Z
+131,gaseous-form,Gaseous Form,Touch,A bit of gauze and a wisp of smoke.,False,Up to 1 hour,True,1 action,3,,/api/2014/spells/gaseous-form,2025-04-08T21:14:16.147Z
+132,gate,Gate,60 feet,"A diamond worth at least 5,000gp.",False,Up to 1 minute,True,1 action,9,,/api/2014/spells/gate,2025-04-08T21:14:16.147Z
+133,geas,Geas,60 feet,,False,30 days,False,1 minute,5,,/api/2014/spells/geas,2025-04-08T21:14:16.147Z
+134,gentle-repose,Gentle Repose,Touch,"A pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration.",True,10 days,False,1 action,2,,/api/2014/spells/gentle-repose,2025-04-08T21:14:16.147Z
+135,giant-insect,Giant Insect,30 feet,,False,Up to 10 minutes,True,1 action,4,,/api/2014/spells/giant-insect,2025-04-08T21:14:16.147Z
+136,glibness,Glibness,Self,,False,1 hour,False,1 action,8,,/api/2014/spells/glibness,2025-04-08T21:14:16.147Z
+137,globe-of-invulnerability,Globe of Invulnerability,Self,A glass or crystal bead that shatters when the spell ends.,False,Up to 1 minute,True,1 action,6,,/api/2014/spells/globe-of-invulnerability,2025-04-08T21:14:16.147Z
+138,glyph-of-warding,Glyph of Warding,Touch,"Incense and powdered diamond worth at least 200 gp, which the spell consumes.",False,Until dispelled,False,1 hour,3,,/api/2014/spells/glyph-of-warding,2025-04-08T21:14:16.147Z
+139,goodberry,Goodberry,Touch,A sprig of mistletoe.,False,Instantaneous,False,1 action,1,,/api/2014/spells/goodberry,2025-04-08T21:14:16.147Z
+140,grease,Grease,60 feet,A bit of pork rind or butter.,False,1 minute,False,1 action,1,,/api/2014/spells/grease,2025-04-08T21:14:16.147Z
+141,greater-invisibility,Greater Invisibility,Touch,,False,Up to 1 minute,True,1 action,4,,/api/2014/spells/greater-invisibility,2025-04-08T21:14:16.147Z
+142,greater-restoration,Greater Restoration,Touch,"Diamond dust worth at least 100gp, which the spell consumes.",False,Instantaneous,False,1 action,5,,/api/2014/spells/greater-restoration,2025-04-08T21:14:16.147Z
+143,guardian-of-faith,Guardian of Faith,30 feet,,False,8 hours,False,1 action,4,,/api/2014/spells/guardian-of-faith,2025-04-08T21:14:16.147Z
+144,guards-and-wards,Guards and Wards,Touch,"Burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp.",False,24 hours,False,10 minutes,6,,/api/2014/spells/guards-and-wards,2025-04-08T21:14:16.147Z
+145,guidance,Guidance,Touch,,False,Up to 1 minute,True,1 action,0,,/api/2014/spells/guidance,2025-04-08T21:14:16.147Z
+146,guiding-bolt,Guiding Bolt,120 feet,,False,1 round,False,1 action,1,ranged,/api/2014/spells/guiding-bolt,2025-04-08T21:14:16.147Z
+147,gust-of-wind,Gust of Wind,Self,A legume seed.,False,Up to 1 minute,True,1 action,2,,/api/2014/spells/gust-of-wind,2025-04-08T21:14:16.147Z
+148,hallow,Hallow,Touch,"Herbs, oils, and incense worth at least 1,000 gp, which the spell consumes.",False,Until dispelled,False,24 hours,5,,/api/2014/spells/hallow,2025-04-08T21:14:16.147Z
+149,hallucinatory-terrain,Hallucinatory Terrain,300 feet,"A stone, a twig, and a bit of green plant.",False,24 hours,False,10 minutes,4,,/api/2014/spells/hallucinatory-terrain,2025-04-08T21:14:16.147Z
+150,harm,Harm,60 feet,,False,Instantaneous,False,1 action,6,,/api/2014/spells/harm,2025-04-08T21:14:16.147Z
+151,haste,Haste,30 feet,A shaving of licorice root.,False,Up to 1 minute,True,1 action,3,,/api/2014/spells/haste,2025-04-08T21:14:16.147Z
+152,heal,Heal,60 feet,,False,Instantaneous,False,1 action,6,,/api/2014/spells/heal,2025-04-08T21:14:16.147Z
+153,healing-word,Healing Word,60 feet,,False,Instantaneous,False,1 bonus action,1,,/api/2014/spells/healing-word,2025-04-08T21:14:16.147Z
+154,heat-metal,Heat Metal,60 feet,A piece of iron and a flame.,False,Up to 1 minute,True,1 action,2,,/api/2014/spells/heat-metal,2025-04-08T21:14:16.147Z
+155,hellish-rebuke,Hellish Rebuke,60 feet,,False,Instantaneous,False,1 reaction,1,,/api/2014/spells/hellish-rebuke,2025-04-08T21:14:16.147Z
+156,heroes-feast,Heroes' Feast,30 feet,"A gem-encrusted bowl worth at least 1,000gp, which the spell consumes.",False,Instantaneous,False,10 minutes,6,,/api/2014/spells/heroes-feast,2025-04-08T21:14:16.147Z
+157,heroism,Heroism,Touch,,False,Up to 1 minute,True,1 action,1,,/api/2014/spells/heroism,2025-04-08T21:14:16.147Z
+158,hideous-laughter,Hideous Laughter,30 feet,Tiny tarts and a feather that is waved in the air.,False,Up to 1 minute,True,1 action,1,,/api/2014/spells/hideous-laughter,2025-04-08T21:14:16.147Z
+159,hold-monster,Hold Monster,90 feet,A small piece of iron.,False,Up to 1 minute,True,1 action,5,,/api/2014/spells/hold-monster,2025-04-08T21:14:16.147Z
+160,hold-person,Hold Person,60 feet,"A small, straight piece of iron.",False,Up to 1 minute,True,1 action,2,,/api/2014/spells/hold-person,2025-04-08T21:14:16.147Z
+161,holy-aura,Holy Aura,Self,"A tiny reliquary worth at least 1,000gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text.",False,Up to 1 minute,True,1 action,8,,/api/2014/spells/holy-aura,2025-04-08T21:14:16.147Z
+162,hunters-mark,Hunter's Mark,90 feet,,False,Up to 1 hour,True,1 bonus action,1,,/api/2014/spells/hunters-mark,2025-04-08T21:14:16.147Z
+163,hypnotic-pattern,Hypnotic Pattern,120 feet,A glowing stick of incense or a crystal vial filled with phosphorescent material.,False,Up to 1 minute,True,1 action,3,,/api/2014/spells/hypnotic-pattern,2025-04-08T21:14:16.147Z
+164,ice-storm,Ice Storm,300 feet,A pinch of dust and a few drops of water.,False,Instantaneous,False,1 action,4,,/api/2014/spells/ice-storm,2025-04-08T21:14:16.147Z
+165,identify,Identify,Touch,A pearl worth at least 100gp and an owl feather.,True,Instantaneous,False,1 minute,1,,/api/2014/spells/identify,2025-04-08T21:14:16.147Z
+166,illusory-script,Illusory Script,Touch,"A lead-based ink worth at least 10gp, which this spell consumes.",True,10 days,False,1 minute,1,,/api/2014/spells/illusory-script,2025-04-08T21:14:16.147Z
+167,imprisonment,Imprisonment,30 feet,"A vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500gp per Hit Die of the target.",False,Until dispelled,False,1 minute,9,,/api/2014/spells/imprisonment,2025-04-08T21:14:16.147Z
+168,incendiary-cloud,Incendiary Cloud,150 feet,,False,Up to 1 minute,True,1 action,8,,/api/2014/spells/incendiary-cloud,2025-04-08T21:14:16.147Z
+169,inflict-wounds,Inflict Wounds,Touch,,False,Instantaneous,False,1 action,1,melee,/api/2014/spells/inflict-wounds,2025-04-08T21:14:16.147Z
+170,insect-plague,Insect Plague,300 feet,"A few grains of sugar, some kernels of grain, and a smear of fat.",False,Up to 10 minutes,True,1 action,5,,/api/2014/spells/insect-plague,2025-04-08T21:14:16.147Z
+171,instant-summons,Instant Summons,Touch,"A sapphire worth 1,000 gp.",True,Until dispelled,False,1 minute,6,,/api/2014/spells/instant-summons,2025-04-08T21:14:16.147Z
+172,invisibility,Invisibility,Touch,An eyelash encased in gum arabic.,False,Up to 1 hour,True,1 action,2,,/api/2014/spells/invisibility,2025-04-08T21:14:16.147Z
+173,irresistible-dance,Irresistible Dance,30 feet,,False,Up to 1 minute,True,1 action,6,,/api/2014/spells/irresistible-dance,2025-04-08T21:14:16.147Z
+174,jump,Jump,Touch,A grasshopper's hind leg.,False,1 minute,False,1 action,1,,/api/2014/spells/jump,2025-04-08T21:14:16.147Z
+175,knock,Knock,60 feet,,False,Instantaneous,False,1 action,2,,/api/2014/spells/knock,2025-04-08T21:14:16.147Z
+176,legend-lore,Legend Lore,Self,"Incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each.",False,Instantaneous,False,10 minutes,5,,/api/2014/spells/legend-lore,2025-04-08T21:14:16.147Z
+177,lesser-restoration,Lesser Restoration,Touch,,False,Instantaneous,False,1 action,2,,/api/2014/spells/lesser-restoration,2025-04-08T21:14:16.147Z
+178,levitate,Levitate,60 feet,Either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end.,False,Up to 10 minutes,True,1 action,2,,/api/2014/spells/levitate,2025-04-08T21:14:16.147Z
+179,light,Light,Touch,A firefly or phosphorescent moss.,False,1 hour,False,1 action,0,,/api/2014/spells/light,2025-04-08T21:14:16.147Z
+180,lightning-bolt,Lightning Bolt,Self,"A bit of fur and a rod of amber, crystal, or glass.",False,Instantaneous,False,1 action,3,,/api/2014/spells/lightning-bolt,2025-04-08T21:14:16.147Z
+181,locate-animals-or-plants,Locate Animals or Plants,Self,A bit of fur from a bloodhound.,True,Instantaneous,False,1 action,2,,/api/2014/spells/locate-animals-or-plants,2025-04-08T21:14:16.147Z
+182,locate-creature,Locate Creature,Self,A bit of fur from a bloodhound.,False,Up to 1 hour,True,1 action,4,,/api/2014/spells/locate-creature,2025-04-08T21:14:16.147Z
+183,locate-object,Locate Object,Self,A forked twig.,False,Up to 10 minutes,True,1 action,2,,/api/2014/spells/locate-object,2025-04-08T21:14:16.147Z
+184,longstrider,Longstrider,Touch,A pinch of dirt.,False,1 hour,False,1 action,1,,/api/2014/spells/longstrider,2025-04-08T21:14:16.147Z
+185,mage-armor,Mage Armor,Touch,A piece of cured leather.,False,8 hours,False,1 action,1,,/api/2014/spells/mage-armor,2025-04-08T21:14:16.147Z
+186,mage-hand,Mage Hand,30 feet,,False,1 minute,False,1 action,0,,/api/2014/spells/mage-hand,2025-04-08T21:14:16.147Z
+187,magic-circle,Magic Circle,10 feet,"Holy water or powdered silver and iron worth at least 100 gp, which the spell consumes.",False,1 hour,False,1 minute,3,,/api/2014/spells/magic-circle,2025-04-08T21:14:16.147Z
+188,magic-jar,Magic Jar,Self,"A gem, crystal, reliquary, or some other ornamental container worth at least 500 gp.",False,Until dispelled,False,1 minute,6,,/api/2014/spells/magic-jar,2025-04-08T21:14:16.147Z
+189,magic-missile,Magic Missile,120 feet,,False,Instantaneous,False,1 action,1,,/api/2014/spells/magic-missile,2025-04-08T21:14:16.147Z
+190,magic-mouth,Magic Mouth,30 feet,"A honeycomb and jade dust of at least 10 inches, the spell consumes.",True,Until dispelled,False,1 minute,2,,/api/2014/spells/magic-mouth,2025-04-08T21:14:16.147Z
+191,magic-weapon,Magic Weapon,Touch,,False,Up to 1 hour,True,1 bonus action,2,,/api/2014/spells/magic-weapon,2025-04-08T21:14:16.147Z
+192,magnificent-mansion,Magnificent Mansion,300 feet,"A miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp.",False,24 hours,False,1 minute,7,,/api/2014/spells/magnificent-mansion,2025-04-08T21:14:16.147Z
+193,major-image,Major Image,120 feet,A bit of fleece.,False,Up to 10 minutes,True,1 action,3,,/api/2014/spells/major-image,2025-04-08T21:14:16.147Z
+194,mass-cure-wounds,Mass Cure Wounds,60 feet,,False,Instantaneous,False,1 action,5,,/api/2014/spells/mass-cure-wounds,2025-04-08T21:14:16.147Z
+195,mass-heal,Mass Heal,60 feet,,False,Instantaneous,False,1 action,9,,/api/2014/spells/mass-heal,2025-04-08T21:14:16.147Z
+196,mass-healing-word,Mass Healing Word,60 feet,,False,Instantaneous,False,1 bonus action,3,,/api/2014/spells/mass-healing-word,2025-04-08T21:14:16.147Z
+197,mass-suggestion,Mass Suggestion,60 feet,A snake's tongue and either a bit of honeycomb or a drop of sweet oil.,False,24 hours,False,1 action,6,,/api/2014/spells/mass-suggestion,2025-04-08T21:14:16.147Z
+198,maze,Maze,60 feet,,False,Up to 10 minutes,True,1 action,8,,/api/2014/spells/maze,2025-04-08T21:14:16.147Z
+199,meld-into-stone,Meld Into Stone,Touch,,True,8 hours,False,1 action,3,,/api/2014/spells/meld-into-stone,2025-04-08T21:14:16.147Z
+200,mending,Mending,Touch,Two lodestones.,False,Instantaneous,False,1 minute,0,,/api/2014/spells/mending,2025-04-08T21:14:16.147Z
+201,message,Message,120 feet,A short piece of copper wire.,False,1 round,False,1 action,0,,/api/2014/spells/message,2025-04-08T21:14:16.147Z
+202,meteor-swarm,Meteor Swarm,1 mile,,False,Instantaneous,False,1 action,9,,/api/2014/spells/meteor-swarm,2025-04-08T21:14:16.147Z
+203,mind-blank,Mind Blank,Touch,,False,24 hours,False,1 action,8,,/api/2014/spells/mind-blank,2025-04-08T21:14:16.147Z
+204,minor-illusion,Minor Illusion,30 feet,A bit of fleece.,False,1 minute,False,1 action,0,,/api/2014/spells/minor-illusion,2025-04-08T21:14:16.147Z
+205,mirage-arcane,Mirage Arcane,Sight,,False,10 days,False,10 minutes,7,,/api/2014/spells/mirage-arcane,2025-04-08T21:14:16.147Z
+206,mirror-image,Mirror Image,Self,,False,1 minute,False,1 action,2,,/api/2014/spells/mirror-image,2025-04-08T21:14:16.147Z
+207,mislead,Mislead,Self,,False,Up to 1 hour,True,1 action,5,,/api/2014/spells/mislead,2025-04-08T21:14:16.147Z
+208,misty-step,Misty Step,Self,,False,Instantaneous,False,1 bonus action,2,,/api/2014/spells/misty-step,2025-04-08T21:14:16.147Z
+209,modify-memory,Modify Memory,30 feet,,False,Up to 1 minute,True,1 action,5,,/api/2014/spells/modify-memory,2025-04-08T21:14:16.147Z
+210,moonbeam,Moonbeam,120 feet,Several seeds of any moonseed plant and a piece of opalescent feldspar.,False,Up to 1 minute,True,1 action,2,,/api/2014/spells/moonbeam,2025-04-08T21:14:16.147Z
+211,move-earth,Move Earth,120 feet,"An iron blade and a small bag containing a mixture of soils--clay, loam, and sand.",False,Up to 2 hours,True,1 action,6,,/api/2014/spells/move-earth,2025-04-08T21:14:16.147Z
+212,nondetection,Nondetection,Touch,"A pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes.",False,8 hours,False,1 action,3,,/api/2014/spells/nondetection,2025-04-08T21:14:16.147Z
+213,pass-without-trace,Pass Without Trace,Self,Ashes from a burned leaf of mistletoe and a sprig of spruce.,False,Up to 1 hour,True,1 action,2,,/api/2014/spells/pass-without-trace,2025-04-08T21:14:16.147Z
+214,passwall,Passwall,30 feet,A pinch of sesame seeds.,False,1 hour,False,1 action,5,,/api/2014/spells/passwall,2025-04-08T21:14:16.147Z
+215,phantasmal-killer,Phantasmal Killer,120 feet,,False,Up to 1 minute,True,1 action,4,,/api/2014/spells/phantasmal-killer,2025-04-08T21:14:16.147Z
+216,phantom-steed,Phantom Steed,30 feet,,True,1 hour,False,1 minute,3,,/api/2014/spells/phantom-steed,2025-04-08T21:14:16.147Z
+217,planar-ally,Planar Ally,60 feet,,False,Instantaneous,False,10 minutes,6,,/api/2014/spells/planar-ally,2025-04-08T21:14:16.147Z
+218,planar-binding,Planar Binding,60 feet,"A jewel worth at least 1,000 gp, which the spell consumes.",False,24 hours,False,1 hour,5,,/api/2014/spells/planar-binding,2025-04-08T21:14:16.147Z
+219,plane-shift,Plane Shift,Touch,"A forked, metal rod worth at least 250 gp, attuned to a particular plane of existence.",False,Instantaneous,False,1 action,7,melee,/api/2014/spells/plane-shift,2025-04-08T21:14:16.147Z
+220,plant-growth,Plant Growth,150 feet,,False,Instantaneous,False,1 action,3,,/api/2014/spells/plant-growth,2025-04-08T21:14:16.147Z
+221,poison-spray,Poison Spray,10 feet,,False,Instantaneous,False,1 action,0,,/api/2014/spells/poison-spray,2025-04-08T21:14:16.147Z
+222,polymorph,Polymorph,60 feet,A caterpillar cocoon.,False,Up to 1 hour,True,1 action,4,,/api/2014/spells/polymorph,2025-04-08T21:14:16.147Z
+223,power-word-kill,Power Word Kill,60 feet,,False,Instantaneous,False,1 action,9,,/api/2014/spells/power-word-kill,2025-04-08T21:14:16.147Z
+224,power-word-stun,Power Word Stun,60 feet,,False,Instantaneous,False,1 action,8,,/api/2014/spells/power-word-stun,2025-04-08T21:14:16.147Z
+225,prayer-of-healing,Prayer of Healing,30 feet,,False,Instantaneous,False,10 minutes,2,,/api/2014/spells/prayer-of-healing,2025-04-08T21:14:16.147Z
+226,prestidigitation,Prestidigitation,10 feet,,False,1 hour,False,1 action,0,,/api/2014/spells/prestidigitation,2025-04-08T21:14:16.147Z
+227,prismatic-spray,Prismatic Spray,Self,,False,Instantaneous,False,1 action,7,,/api/2014/spells/prismatic-spray,2025-04-08T21:14:16.147Z
+228,prismatic-wall,Prismatic Wall,60 feet,,False,10 minutes,False,1 action,9,,/api/2014/spells/prismatic-wall,2025-04-08T21:14:16.147Z
+229,private-sanctum,Private Sanctum,120 feet,"A thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite.",False,24 hours,False,10 minutes,4,,/api/2014/spells/private-sanctum,2025-04-08T21:14:16.147Z
+230,produce-flame,Produce Flame,Self,,False,10 minutes,False,1 action,0,ranged,/api/2014/spells/produce-flame,2025-04-08T21:14:16.147Z
+231,programmed-illusion,Programmed Illusion,120 feet,A bit of fleece and jade dust worth at least 25 gp.,False,Until dispelled,False,1 action,6,,/api/2014/spells/programmed-illusion,2025-04-08T21:14:16.147Z
+232,project-image,Project Image,500 miles,A small replica of you made from materials worth at least 5 gp.,False,Up to 24 hours,True,1 action,7,,/api/2014/spells/project-image,2025-04-08T21:14:16.147Z
+233,protection-from-energy,Protection From Energy,Touch,,False,Up to 1 hour,True,1 action,3,,/api/2014/spells/protection-from-energy,2025-04-08T21:14:16.147Z
+234,protection-from-evil-and-good,Protection from Evil and Good,Touch,"Holy water or powdered silver and iron, which the spell consumes.",False,Up to 10 minutes,True,1 action,1,,/api/2014/spells/protection-from-evil-and-good,2025-04-08T21:14:16.147Z
+235,protection-from-poison,Protection from Poison,Touch,,False,1 hour,False,1 action,2,,/api/2014/spells/protection-from-poison,2025-04-08T21:14:16.147Z
+236,purify-food-and-drink,Purify Food and Drink,10 feet,,True,Instantaneous,False,1 action,1,,/api/2014/spells/purify-food-and-drink,2025-04-08T21:14:16.147Z
+237,raise-dead,Raise Dead,Touch,"A diamond worth at least 500gp, which the spell consumes.",False,Instantaneous,False,1 hour,5,,/api/2014/spells/raise-dead,2025-04-08T21:14:16.147Z
+238,ray-of-enfeeblement,Ray of Enfeeblement,60 feet,,False,Up to 1 minute,True,1 action,2,ranged,/api/2014/spells/ray-of-enfeeblement,2025-04-08T21:14:16.147Z
+239,ray-of-frost,Ray of Frost,60 feet,,False,Instantaneous,False,1 action,0,ranged,/api/2014/spells/ray-of-frost,2025-04-08T21:14:16.147Z
+240,regenerate,Regenerate,Touch,A prayer wheel and holy water.,False,1 hour,False,1 minute,7,,/api/2014/spells/regenerate,2025-04-08T21:14:16.147Z
+241,reincarnate,Reincarnate,Touch,"Rare oils and unguents worth at least 1,000 gp, which the spell consumes.",False,Instantaneous,False,1 hour,5,,/api/2014/spells/reincarnate,2025-04-08T21:14:16.147Z
+242,remove-curse,Remove Curse,Touch,,False,Instantaneous,False,1 action,3,,/api/2014/spells/remove-curse,2025-04-08T21:14:16.147Z
+243,resilient-sphere,Resilient Sphere,30 feet,A hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic.,False,Up to 1 minute,True,1 action,4,,/api/2014/spells/resilient-sphere,2025-04-08T21:14:16.147Z
+244,resistance,Resistance,Touch,A miniature cloak.,False,Up to 1 minute,True,1 action,0,,/api/2014/spells/resistance,2025-04-08T21:14:16.147Z
+245,resurrection,Resurrection,Touch,"A diamond worth at least 1,000gp, which the spell consumes.",False,Instantaneous,False,1 hour,7,,/api/2014/spells/resurrection,2025-04-08T21:14:16.147Z
+246,reverse-gravity,Reverse Gravity,100 feet,A lodestone and iron filings.,False,Up to 1 minute,True,1 action,7,,/api/2014/spells/reverse-gravity,2025-04-08T21:14:16.147Z
+247,revivify,Revivify,Touch,"Diamonds worth 300gp, which the spell consumes.",False,Instantaneous,False,1 action,3,,/api/2014/spells/revivify,2025-04-08T21:14:16.147Z
+248,rope-trick,Rope Trick,Touch,Powdered corn extract and a twisted loop of parchment.,False,1 hour,False,1 action,2,,/api/2014/spells/rope-trick,2025-04-08T21:14:16.147Z
+249,sacred-flame,Sacred Flame,60 feet,,False,Instantaneous,False,1 action,0,,/api/2014/spells/sacred-flame,2025-04-08T21:14:16.147Z
+250,sanctuary,Sanctuary,30 feet,A small silver mirror.,False,1 minute,False,1 bonus action,1,,/api/2014/spells/sanctuary,2025-04-08T21:14:16.147Z
+251,scorching-ray,Scorching Ray,120 feet,,False,Instantaneous,False,1 action,2,,/api/2014/spells/scorching-ray,2025-04-08T21:14:16.147Z
+252,scrying,Scrying,Self,"A focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water.",False,Up to 10 minutes,True,10 minutes,5,,/api/2014/spells/scrying,2025-04-08T21:14:16.147Z
+253,secret-chest,Secret Chest,Touch,"An exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp.",False,Instantaneous,False,1 action,4,,/api/2014/spells/secret-chest,2025-04-08T21:14:16.147Z
+254,see-invisibility,See Invisibility,Self,A dash of talc and a small amount of silver powder.,False,1 hour,False,1 action,2,,/api/2014/spells/see-invisibility,2025-04-08T21:14:16.147Z
+255,seeming,Seeming,30 feet,,False,8 hours,False,1 action,5,,/api/2014/spells/seeming,2025-04-08T21:14:16.147Z
+256,sending,Sending,Unlimited,A short piece of fine copper wire.,False,1 round,False,1 action,3,,/api/2014/spells/sending,2025-04-08T21:14:16.147Z
+257,sequester,Sequester,Touch,"A powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes.",False,Until dispelled,False,1 action,7,,/api/2014/spells/sequester,2025-04-08T21:14:16.147Z
+258,shapechange,Shapechange,Self,"A jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell.",False,Up to 1 hour,True,1 action,9,,/api/2014/spells/shapechange,2025-04-08T21:14:16.147Z
+259,shatter,Shatter,60 feet,A burst of mica.,False,Instantaneous,False,1 action,2,,/api/2014/spells/shatter,2025-04-08T21:14:16.147Z
+260,shield,Shield,Self,,False,1 round,False,1 reaction,1,,/api/2014/spells/shield,2025-04-08T21:14:16.147Z
+261,shield-of-faith,Shield of Faith,60 feet,A small parchment with a bit of holy text written on it.,False,Up to 10 minutes,True,1 bonus action,1,,/api/2014/spells/shield-of-faith,2025-04-08T21:14:16.147Z
+262,shillelagh,Shillelagh,Touch,"Mistletoe, a shamrock leaf, and a club or quarterstaff.",False,1 minute,False,1 bonus action,0,,/api/2014/spells/shillelagh,2025-04-08T21:14:16.147Z
+263,shocking-grasp,Shocking Grasp,Touch,,False,Instantaneous,False,1 action,0,melee,/api/2014/spells/shocking-grasp,2025-04-08T21:14:16.147Z
+264,silence,Silence,120 feet,,True,Up to 10 minutes,True,1 action,2,,/api/2014/spells/silence,2025-04-08T21:14:16.147Z
+265,silent-image,Silent Image,60 feet,A bit of fleece.,False,Up to 10 minutes,True,1 action,1,,/api/2014/spells/silent-image,2025-04-08T21:14:16.147Z
+266,simulacrum,Simulacrum,Touch,"Snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell.",False,Until dispelled,False,12 hours,7,,/api/2014/spells/simulacrum,2025-04-08T21:14:16.147Z
+267,sleep,Sleep,90 feet,"A pinch of fine sand, rose petals, or a cricket.",False,1 minute,False,1 action,1,,/api/2014/spells/sleep,2025-04-08T21:14:16.147Z
+268,sleet-storm,Sleet Storm,150 feet,A pinch of dust and a few drops of water.,False,Up to 1 minute,True,1 action,3,,/api/2014/spells/sleet-storm,2025-04-08T21:14:16.147Z
+269,slow,Slow,120 feet,A drop of molasses.,False,Up to 1 minute,True,1 action,3,,/api/2014/spells/slow,2025-04-08T21:14:16.147Z
+270,spare-the-dying,Spare the Dying,Touch,,False,Instantaneous,False,1 action,0,,/api/2014/spells/spare-the-dying,2025-04-08T21:14:16.147Z
+271,speak-with-animals,Speak with Animals,Self,,True,10 minutes,False,1 action,1,,/api/2014/spells/speak-with-animals,2025-04-08T21:14:16.147Z
+272,speak-with-dead,Speak with Dead,10 feet,Burning incense.,False,10 minutes,False,1 action,3,,/api/2014/spells/speak-with-dead,2025-04-08T21:14:16.147Z
+273,speak-with-plants,Speak with Plants,Self,,False,10 minutes,False,1 action,3,,/api/2014/spells/speak-with-plants,2025-04-08T21:14:16.147Z
+274,spider-climb,Spider Climb,Touch,A drop of bitumen and a spider.,False,Up to 1 hour,True,1 action,2,,/api/2014/spells/spider-climb,2025-04-08T21:14:16.147Z
+275,spike-growth,Spike Growth,150 feet,"Seven sharp thorns or seven small twigs, each sharpened to a point.",False,Up to 10 minutes,True,1 action,2,,/api/2014/spells/spike-growth,2025-04-08T21:14:16.147Z
+276,spirit-guardians,Spirit Guardians,Self,A holy symbol.,False,Up to 10 minutes,True,1 action,3,,/api/2014/spells/spirit-guardians,2025-04-08T21:14:16.147Z
+277,spiritual-weapon,Spiritual Weapon,60 feet,,False,1 minute,False,1 bonus action,2,melee,/api/2014/spells/spiritual-weapon,2025-04-08T21:14:16.147Z
+278,stinking-cloud,Stinking Cloud,90 feet,A rotten egg or several skunk cabbage leaves.,False,Up to 1 minute,True,1 action,3,,/api/2014/spells/stinking-cloud,2025-04-08T21:14:16.147Z
+279,stone-shape,Stone Shape,Touch,"Soft clay, to be crudely worked into the desired shape for the stone object.",False,Instantaneous,False,1 action,4,,/api/2014/spells/stone-shape,2025-04-08T21:14:16.147Z
+280,stoneskin,Stoneskin,Touch,"Diamond dust worth 100 gp, which the spell consumes.",False,Up to 1 hour,True,1 action,4,,/api/2014/spells/stoneskin,2025-04-08T21:14:16.147Z
+281,storm-of-vengeance,Storm of Vengeance,Sight,,False,Up to 1 minute,True,1 action,9,,/api/2014/spells/storm-of-vengeance,2025-04-08T21:14:16.147Z
+282,suggestion,Suggestion,30 feet,A snake's tongue and either a bit of honeycomb or a drop of sweet oil.,False,Up to 8 hours,True,1 action,2,,/api/2014/spells/suggestion,2025-04-08T21:14:16.147Z
+283,sunbeam,Sunbeam,Self,A magnifying glass.,False,Up to 1 minute,True,1 action,6,,/api/2014/spells/sunbeam,2025-04-08T21:14:16.147Z
+284,sunburst,Sunburst,150 feet,Fire and a piece of sunstone.,False,Instantaneous,False,1 action,8,,/api/2014/spells/sunburst,2025-04-08T21:14:16.147Z
+285,symbol,Symbol,Touch,"Mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes.",False,Until dispelled,False,1 minute,7,,/api/2014/spells/symbol,2025-04-08T21:14:16.147Z
+286,telekinesis,Telekinesis,60 feet,,False,Up to 10 minutes,True,1 action,5,,/api/2014/spells/telekinesis,2025-04-08T21:14:16.147Z
+287,telepathic-bond,Telepathic Bond,30 feet,Pieces of eggshell from two different kinds of creatures,True,1 hour,False,1 action,5,,/api/2014/spells/telepathic-bond,2025-04-08T21:14:16.147Z
+288,teleport,Teleport,10 feet,,False,Instantaneous,False,1 action,7,,/api/2014/spells/teleport,2025-04-08T21:14:16.147Z
+289,teleportation-circle,Teleportation Circle,10 feet,"Rare chalks and inks infused with precious gems with 50 gp, which the spell consumes.",False,1 round,False,1 minute,5,,/api/2014/spells/teleportation-circle,2025-04-08T21:14:16.147Z
+290,thaumaturgy,Thaumaturgy,30 feet,,False,1 minute,False,1 action,0,,/api/2014/spells/thaumaturgy,2025-04-08T21:14:16.147Z
+291,thunderwave,Thunderwave,Self,,False,Instantaneous,False,1 action,1,,/api/2014/spells/thunderwave,2025-04-08T21:14:16.147Z
+292,time-stop,Time Stop,Self,,False,Instantaneous,False,1 action,9,,/api/2014/spells/time-stop,2025-04-08T21:14:16.147Z
+293,tiny-hut,Tiny Hut,Self,A small crystal bead.,True,8 hours,False,1 minute,3,,/api/2014/spells/tiny-hut,2025-04-08T21:14:16.147Z
+294,tongues,Tongues,Touch,A small clay model of a ziggurat.,False,1 hour,False,1 action,3,,/api/2014/spells/tongues,2025-04-08T21:14:16.147Z
+295,transport-via-plants,Transport via Plants,10 feet,,False,1 round,False,1 action,6,,/api/2014/spells/transport-via-plants,2025-04-08T21:14:16.147Z
+296,tree-stride,Tree Stride,Self,,False,Up to 1 minute,True,1 action,5,,/api/2014/spells/tree-stride,2025-04-08T21:14:16.147Z
+297,true-polymorph,True Polymorph,30 feet,"A drop of mercury, a dollop of gum arabic, and a wisp of smoke.",False,Up to 1 hour,True,1 action,9,,/api/2014/spells/true-polymorph,2025-04-08T21:14:16.147Z
+298,true-resurrection,True Resurrection,Touch,"A sprinkle of holy water and diamonds worth at least 25,000gp, which the spell consumes.",False,Instantaneous,False,1 hour,9,,/api/2014/spells/true-resurrection,2025-04-08T21:14:16.147Z
+299,true-seeing,True Seeing,Touch,"An ointment for the eyes that costs 25gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell.",False,1 hour,False,1 action,6,,/api/2014/spells/true-seeing,2025-04-08T21:14:16.147Z
+300,true-strike,True Strike,30 feet,,False,Up to 1 round,True,1 action,0,,/api/2014/spells/true-strike,2025-04-08T21:14:16.147Z
+301,unseen-servant,Unseen Servant,60 feet,A piece of string and a bit of wood.,True,1 hour,False,1 action,1,,/api/2014/spells/unseen-servant,2025-04-08T21:14:16.147Z
+302,vampiric-touch,Vampiric Touch,Self,,False,Up to 1 minute,True,1 action,3,melee,/api/2014/spells/vampiric-touch,2025-04-08T21:14:16.147Z
+303,vicious-mockery,Vicious Mockery,60 feet,,False,Instantaneous,False,1 action,0,,/api/2014/spells/vicious-mockery,2025-04-08T21:14:16.147Z
+304,wall-of-fire,Wall of Fire,120 feet,A small piece of phosphorus.,False,Up to 1 minute,True,1 action,4,,/api/2014/spells/wall-of-fire,2025-04-08T21:14:16.147Z
+305,wall-of-force,Wall of Force,120 feet,A pinch of powder made by crushing a clear gemstone.,False,Up to 10 minutes,True,1 action,5,,/api/2014/spells/wall-of-force,2025-04-08T21:14:16.147Z
+306,wall-of-ice,Wall of Ice,120 feet,A small piece of quartz.,False,Up to 10 minutes,True,1 action,6,,/api/2014/spells/wall-of-ice,2025-04-08T21:14:16.147Z
+307,wall-of-stone,Wall of Stone,120 feet,A small block of granite.,False,Up to 10 minutes,True,1 action,5,,/api/2014/spells/wall-of-stone,2025-04-08T21:14:16.147Z
+308,wall-of-thorns,Wall of Thorns,120 feet,A handful of thorns.,False,Up to 10 minutes,True,1 action,6,,/api/2014/spells/wall-of-thorns,2025-04-08T21:14:16.147Z
+309,warding-bond,Warding Bond,Touch,"A pair of platinum rings worth at least 50gp each, which you and the target must wear for the duration.",False,1 hour,False,1 action,2,,/api/2014/spells/warding-bond,2025-04-08T21:14:16.147Z
+310,water-breathing,Water Breathing,30 feet,A short piece of reed or straw.,True,24 hours,False,1 action,3,,/api/2014/spells/water-breathing,2025-04-08T21:14:16.147Z
+311,water-walk,Water Walk,30 feet,A piece of cork.,True,1 hour,False,1 action,3,,/api/2014/spells/water-walk,2025-04-08T21:14:16.147Z
+312,web,Web,60 feet,A bit of spiderweb.,False,Up to 1 hour,True,1 action,2,,/api/2014/spells/web,2025-04-08T21:14:16.147Z
+313,weird,Weird,120 feet,,False,Up to 1 minute,True,1 action,9,,/api/2014/spells/weird,2025-04-08T21:14:16.147Z
+314,wind-walk,Wind Walk,30 feet,Fire and holy water.,False,8 hours,False,1 minute,6,,/api/2014/spells/wind-walk,2025-04-08T21:14:16.147Z
+315,wind-wall,Wind Wall,120 feet,A tiny fan and a feather of exotic origin.,False,Up to 1 minute,True,1 action,3,,/api/2014/spells/wind-wall,2025-04-08T21:14:16.147Z
+316,wish,Wish,Self,,False,Instantaneous,False,1 action,9,,/api/2014/spells/wish,2025-04-08T21:14:16.147Z
+317,word-of-recall,Word of Recall,5 feet,,False,Instantaneous,False,1 action,6,,/api/2014/spells/word-of-recall,2025-04-08T21:14:16.147Z
+318,zone-of-truth,Zone of Truth,60 feet,,False,10 minutes,False,1 action,2,,/api/2014/spells/zone-of-truth,2025-04-08T21:14:16.147Z
