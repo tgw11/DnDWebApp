@@ -7,5 +7,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-pg = st.navigation(['Home.py', 'Character_Creation.py', 'Story_Planner_Page.py', 'Spell_Overview_Page.py', 'Monster_Overview_Page.py'])
+page_list = ['Home.py', 'Character_Creation.py', 'Story_Planner_Page.py', 'Spell_Overview_Page.py', 'Monster_Overview_Page.py']
+
+pg = st.navigation(page_list)
 pg.run()
