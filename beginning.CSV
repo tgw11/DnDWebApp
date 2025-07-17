@@ -1,4 +1,2 @@
-Sentence,Choice1,Consequence1,Choice2,Consequence2
-aa,aaa,You find yourself on a lively market, Check out the vendors at the market,Plan the adventure in the Tavern at the corner
-You find yourself on a lively market,Check out the vendors at the market,"One vendor makes buy smth (-50g, +'rusty sword')",Plan the adventure in the Tavern at the corner,"*Option buttons: location 1, location2, ...*"
-You find yourself on a lively market,Check out the vendors at the market,"One vendor makes buy smth (-50g, +'rusty sword')",Plan the adventure in the Tavern at the corner,"*Option buttons: location 1, location2, ...*"
+Sentence,Choice1,Consequence1,Choice2,Consequence2,Choice3,Consequence3,Choice4,Consequence4,Choice5,Consequence5
+testsentence,test1,test1,test2,test2,test3,test3,test4,test4,test5,test5
