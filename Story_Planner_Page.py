@@ -113,6 +113,8 @@ if st.session_state.mode == "edit":
 if st.session_state.mode == 'game':
     if 'view1' not in st.session_state:
         st.session_state.view1 = True
+    if 'chosen_story' not in st.session_state:
+        st.session_state.chosen_story = None
 
     success = True
     try:
@@ -121,17 +123,32 @@ if st.session_state.mode == 'game':
         success = False
         st.error("There is no data to continue with. Please create a story first.")
 
-    if success and st.session_state.view1:
-        col3, col4 = st.columns(2)
-        with col3:
-            st.write(file_beg['Title'].reset_index(drop=True))
-        with col4: 
-            options = file_beg['Title'].tolist()
-            with st.form("Story viewer select"):
-                chosen_story = st.selectbox('Select the Story you want to view', options)
-                submit = st.form_submit_button("Confirm")
-            if submit:
-                st.session_state.view1 = False
-    
+    if success:
+        if st.session_state.view1:
+            col3, col4 = st.columns(2)
+            with col3:
+                st.write(file_beg['Title'].reset_index(drop=True))
+            with col4: 
+                options = file_beg['Title'].tolist()
+                with st.form("Story viewer select"):
+                    chosen_story = st.selectbox('Select the Story you want to view', options)
+                    submit = st.form_submit_button("Confirm")
 
+                if submit:
+                    st.session_state.view1 = False
+                    st.session_state.index  = chosen_story
+
+        else:
+            spec_df = file_beg[file_beg['Title'] == st.session_state.chosen_story]
+            if not spec_df.empty:
+                row = spec_df.iloc[0]
+                display_df = row.to_frame(name="Value")
+
+                display_df = display_df[display_df["Value"] != "empty"]
+                st.dataframe(display_df)
+            else:
+                st.warning("No matching story found.")
+            if st.button('Select different story'):
+                st.session_state.view1 = True
+                st.session_state.chosen_story = None
 
