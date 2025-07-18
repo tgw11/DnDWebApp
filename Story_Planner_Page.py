@@ -29,48 +29,70 @@ with col2:
 st.caption(f"📁 Current working directory: `{os.getcwd()}`")
 
 if st.session_state.mode == "edit":
-    number = st.selectbox("Input here:", (1, 2, 3, 4, 5))
+    number = st.selectbox("Number of choices:", (1, 2, 3, 4, 5))
     with st.form("Beginning of the Story", clear_on_submit=True):
-        text = st.text_input("Input the first sentence of the game", value="You find yourself on a lively market")
+        title = st.text_input("Input the title of this part of the story", value='empty')
+        text = st.text_input("Input the first sentence of the game",value='empty')
         if number == 1:
-            choice = st.text_input("Choice 1")
-            consq = st.text_input("Consequence 1")
+            choice = st.text_input("Choice 1", value='empty')
+            consq = st.text_input("Consequence 1", value='empty')
+            choice2 = 'empty'
+            consq2 = 'empty'
+            choice3 = 'empty'
+            consq3 = 'empty'
+            choice4 = 'empty'
+            consq4 = 'empty'
+            choice5 = 'empty'
+            consq5 = 'empty'
         elif number == 2:
-            choice = st.text_input("Choice 1")
-            consq = st.text_input("Consequence 1")
-            choice2 = st.text_input("Choice 2")
-            consq2 = st.text_input("Consequence 2")
+            choice = st.text_input("Choice 1", value= 'empty')
+            consq = st.text_input("Consequence 1", value= 'empty')
+            choice2 = st.text_input("Choice 2", value= 'empty')
+            consq2 = st.text_input("Consequence 2", value= 'empty')
+            choice3 = 'empty'
+            consq3 = 'empty'
+            choice4 = 'empty'
+            consq4 = 'empty'
+            choice5 = 'empty'
+            consq5 = 'empty'
         elif number == 3:
-            choice = st.text_input("Choice 1")
-            consq = st.text_input("Consequence 1")
-            choice2 = st.text_input("Choice 2")
-            consq2 = st.text_input("Consequence 2")
-            choice3 = st.text_input("Choice 3")
-            consq3 = st.text_input("Consequence 3")
+            choice = st.text_input("Choice 1", value='empty')
+            consq = st.text_input("Consequence 1", value='empty')
+            choice2 = st.text_input("Choice 2", value='empty')
+            consq2 = st.text_input("Consequence 2", value='empty')
+            choice3 = st.text_input("Choice 3", value='empty')
+            consq3 = st.text_input("Consequence 3", value='empty')
+            choice4 = 'empty'
+            consq4 = 'empty'
+            choice5 = 'empty'
+            consq5 = 'empty'
         elif number == 4:
-            choice = st.text_input("Choice 1")
-            consq = st.text_input("Consequence 1")
-            choice2 = st.text_input("Choice 2")
-            consq2 = st.text_input("Consequence 2")
-            choice3 = st.text_input("Choice 3")
-            consq3 = st.text_input("Consequence 3")
-            choice4 = st.text_input("Choice 4")
-            consq4 = st.text_input("Consequence 4")
+            choice = st.text_input("Choice 1", value='empty')
+            consq = st.text_input("Consequence 1", value='empty')
+            choice2 = st.text_input("Choice 2", value='empty')
+            consq2 = st.text_input("Consequence 2", value='empty')
+            choice3 = st.text_input("Choice 3", value='empty')
+            consq3 = st.text_input("Consequence 3", value='empty')
+            choice4 = st.text_input("Choice 4", value='empty')
+            consq4 = st.text_input("Consequence 4", value='empty')
+            choice5 = 'empty'
+            consq5 = 'empty'
         elif number == 5:
-            choice = st.text_input("Choice 1")
-            consq = st.text_input("Consequence 1")
-            choice2 = st.text_input("Choice 2")
-            consq2 = st.text_input("Consequence 2")
-            choice3 = st.text_input("Choice 3")
-            consq3 = st.text_input("Consequence 3")
-            choice4 = st.text_input("Choice 4")
-            consq4 = st.text_input("Consequence 4")
-            choice5 = st.text_input("Choice 5")
-            consq5 = st.text_input("Consequence 5")
+            choice = st.text_input("Choice 1", value='empty')
+            consq = st.text_input("Consequence 1", value='empty')
+            choice2 = st.text_input("Choice 2", value='empty')
+            consq2 = st.text_input("Consequence 2", value='empty')
+            choice3 = st.text_input("Choice 3", value='empty')
+            consq3 = st.text_input("Consequence 3", value='empty')
+            choice4 = st.text_input("Choice 4", value='empty')
+            consq4 = st.text_input("Consequence 4", value='empty')
+            choice5 = st.text_input("Choice 5", value='empty')
+            consq5 = st.text_input("Consequence 5", value='empty')
         save = st.form_submit_button("Save 'Beginning of the Story'")
 
         if save:
             datas1 = {
+                "Title": title,
                 "Sentence": text,
                 "Choice1": choice,
                 "Consequence1": consq,
@@ -87,3 +109,29 @@ if st.session_state.mode == "edit":
 
             save_element(datas1, file_beg)
             st.success("✅ Saved successfully!")
+
+if st.session_state.mode == 'game':
+    if 'view1' not in st.session_state:
+        st.session_state.view1 = True
+
+    success = True
+    try:
+        file_beg = pd.read_csv("beginning.csv")
+    except:
+        success = False
+        st.error("There is no data to continue with. Please create a story first.")
+
+    if success and st.session_state.view1:
+        col3, col4 = st.columns(2)
+        with col3:
+            st.write(file_beg['Title'].reset_index(drop=True))
+        with col4: 
+            options = file_beg['Title'].tolist()
+            with st.form("Story viewer select"):
+                chosen_story = st.selectbox('Select the Story you want to view', options)
+                submit = st.form_submit_button("Confirm")
+            if submit:
+                st.session_state.view1 = False
+    
+
+

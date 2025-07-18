@@ -1,2 +1,2 @@
-Sentence,Choice1,Consequence1,Choice2,Consequence2,Choice3,Consequence3,Choice4,Consequence4,Choice5,Consequence5
-testsentence,test1,test1,test2,test2,test3,test3,test4,test4,test5,test5
+Title,Sentence,Choice1,Consequence1,Choice2,Consequence2,Choice3,Consequence3,Choice4,Consequence4,Choice5,Consequence5
+Test story,You are by a waterfall in an enchanted forest.,Drink the water,You feel refreshed. *Something* feels off though.,Explore the area,You find a cave containing many treasures behind the waterfall. ,Look for fairies,"You find a little, glowing, fairy-like animal. Too bad that it is a carnivore and hasn't had lunch yet. Try to escape.",empty,empty,empty,empty

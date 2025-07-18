@@ -105,7 +105,7 @@ if submit:
         "Spells": "; ".join(spells),
     }
 
-    save_character(character_data, CSV_FILE)
+    save_character(character_data, CSV_FILE) 
     st.success(f"Character '{name}' saved successfully!")
 
 df_char = pd.read_csv("character_sheets.csv")
